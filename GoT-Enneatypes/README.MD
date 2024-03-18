@@ -2,7 +2,7 @@
 
 [`Thrones Types(DEMO)`](https://gothronetypes.netlify.app/got-enneatypes/)
 
-<a href="https://imgur.com/rjifJbe">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 Welcome to the "Thrones Types" project!
 
