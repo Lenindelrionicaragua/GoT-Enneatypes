@@ -1,6 +1,6 @@
 # Thrones Types
 
-https://gothronetypes.netlify.app/got-enneatypes/
+[`Thrones Types(DEMO)`](https://gothronetypes.netlify.app/got-enneatypes/)
 
 
 Welcome to the "Thrones Types" project!
