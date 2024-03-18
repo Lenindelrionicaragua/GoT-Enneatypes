@@ -2,6 +2,7 @@
 
 [`Thrones Types(DEMO)`](https://gothronetypes.netlify.app/got-enneatypes/)
 
+
 Welcome to the "Thrones Types" project!
 
 ## About
@@ -34,6 +35,3 @@ Thrones Types is a web application that lets you delve into the enneatypes of yo
 ## Getting Started
 
 Clone the repository to your local machine and open the `index.html` file in your web browser.
-
-
-
