@@ -2,7 +2,6 @@
 
 [`Thrones Types(DEMO)`](https://gothronetypes.netlify.app/got-enneatypes/)
 
-
 Welcome to the "Thrones Types" project!
 
 ## About
